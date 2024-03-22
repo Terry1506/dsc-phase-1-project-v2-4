@@ -46,7 +46,7 @@ movie_info = pd.read_csv('zippedData/rt.movie_info.tsv', delimiter ='\t', encodi
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 
- ## Conclusion
+ ## Conclusions
 High rated movies gross higher, hence high profit margins.
 Popular movies have a higher worldwide gross.
 Popular movies have high ratings.
