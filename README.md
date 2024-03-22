@@ -40,12 +40,11 @@ tmdb_movie = pd.read_csv('zippedData/tmdb.movies.csv',index_col=0)
 reviews = pd.read_csv('zippedData/rt.reviews.tsv', delimiter='\t',encoding='unicode_escape')
 conn = sqlite3.connect('zippedData/im.db')
 movie_info = pd.read_csv('zippedData/rt.movie_info.tsv', delimiter ='\t', encoding='unicode_escape' )
-## Data Visualizations!
-[alt text](image-1.png)
+## Data Visualizations
+![alt text](image.png)
+![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
-![alt text](image-4.png)
-
  ## Conclusions
 High rated movies gross higher, hence high profit margins.
 Popular movies have a higher worldwide gross.
