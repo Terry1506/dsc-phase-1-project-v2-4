@@ -52,7 +52,7 @@ Popular movies have high ratings.
 Drama, Comedy and Action genre of movies are the best to venture into since they are the popular genres.
 ## Recommendations
  1. Microsoft should come up with movies that incorporate drama, Action and comedy.
- 2. Microsoft should come up with a strong marketing strategy  by allocating resources towards producing a diverse range of movies within the popular genres. Conduct market research to identify specific sub-genres or niche audiences within each genre to target, thereby maximizing the potential for worldwide gross and profit margins. since popularity increases the ratings and profits.
+ 2. Microsoft should come up with a strong marketing strategy  by allocating resources towards producing a diverse range of movies within the popular genres. Conduct market research to identify specific sub-genres or niche audiences within each genre to target, thereby maximizing the potential for worldwide gross and profit margins. since popularity increases the ratings and profit.
  3. Microsoft should focus on Quality Content: Invest in producing high-quality movies with strong storytelling, compelling characters, and engaging narratives. While high ratings are correlated with higher financial success, prioritizing quality content can help ensure positive critical reception and audience satisfaction, leading to higher profitability in the long run.
 
 
